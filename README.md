@@ -2,7 +2,6 @@
 - I am a game developer and I have worked on a few prototypes 🎮🎮
 - I mainly work with Unity and C#
 - 👀 I’m interested in Artificial intelligence and Machine learning 
-- 🌱 I’m currently learning Python and AI on Azure
 - 💞️ I’m looking to collaborate on any projects that involve game development, machine learning models or robotics 
 - I am a very dedicated hands on person 
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/mergery-wanjiru-26b890245
